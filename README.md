@@ -22,28 +22,28 @@
 
 # 4位
 
-お〜いお茶
+## お〜いお茶
 
 <img src="oiocha.png" width="150">
 
 # 3位🥉
 
-綾鷹
+## 綾鷹
 
 <img src="ayataka.png.webp" width="150">
 
 
 # 2位🥈
 
-生茶
+## 生茶
 
 <img src="namacha.jpg" width="150">
 
 # 1位🥇
 
-伊右衛門
+## 伊右衛門
 
-<img src="iemon.webp" width="150">
+<img src="iemon.webp" width="50">
 
 
 ---
